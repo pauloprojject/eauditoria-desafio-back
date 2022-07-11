@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eaudit", "eaudit\eaudit.csproj", "{7CC9D768-5B81-40DB-A252-0B713B22D0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eaudit.data", "eaudit.data\eaudit.data.csproj", "{359F35F4-2BDE-4EF2-BC6D-BAA471277A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC9D768-5B81-40DB-A252-0B713B22D0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC9D768-5B81-40DB-A252-0B713B22D0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC9D768-5B81-40DB-A252-0B713B22D0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC9D768-5B81-40DB-A252-0B713B22D0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359F35F4-2BDE-4EF2-BC6D-BAA471277A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359F35F4-2BDE-4EF2-BC6D-BAA471277A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359F35F4-2BDE-4EF2-BC6D-BAA471277A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359F35F4-2BDE-4EF2-BC6D-BAA471277A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA29DAEF-7E05-4809-82CC-16DF2ACED4DA}
+	EndGlobalSection
+EndGlobal
